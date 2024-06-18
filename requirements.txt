@@ -12,3 +12,5 @@ sentence_transformers
 llama-index-readers-file
 langchain-community
 streamlit
+scikit-learn
+langchain-huggingface
