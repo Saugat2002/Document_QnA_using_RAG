@@ -1,0 +1,14 @@
+transformers
+bertopic
+nltk
+faiss-cpu
+llama-index
+llama-index-llms-huggingface
+huggingface_hub
+accelerate
+einops
+bitsandbytes
+sentence_transformers
+llama-index-readers-file
+langchain-community
+streamlit
